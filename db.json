@@ -2,7 +2,10 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "data": {
+        "x": 10,
+        "y": 25
+      }
     }
   ],
   "profile": {
