@@ -1,9 +1,11 @@
 {
- "posts": [
-    "id": 25346,
-    "title": "lol"
-   ],
-   "profile": {
-     "name": "test server"
-   }
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
